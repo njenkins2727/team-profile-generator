@@ -25,6 +25,8 @@ This application generates profiles for each team member with the output provide
 - Answer all the questions 
 - Go into the output folder and open the team.html.
 
+https://user-images.githubusercontent.com/104052178/181415966-90fb23e6-f548-4cad-9723-5d2d90dc3f79.mp4
+
 ## Contributing
 Sam Ngu.
 
